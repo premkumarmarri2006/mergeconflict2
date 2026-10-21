@@ -1,4 +1,2 @@
-\# Git Branching Experiment
-
-This project uses Git and GitHub.
-
+# Git Branching Experiment
+This project uses Git, GitHub, and Jenkins.
