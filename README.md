@@ -1,4 +1,4 @@
 \# Git Branching Experiment
 
-This project demonstrates Git branching.
+This project uses Git and Jenkins.
 
